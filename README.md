@@ -1,5 +1,8 @@
 https://reactjs.org/tutorial/tutorial.html sivustolla esitetty tutoriaali, johon teen omia kokeiluja.
 
+![Kuva pelistä](/kuva.PNG)
+Kuva pelistä.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
